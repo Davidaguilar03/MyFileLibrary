@@ -4,7 +4,7 @@ import java.io.IOException;
 
 import java.util.Properties;
 
-public class PropiertiesService {
+public class PropertiesService {
    private String filePath;
 
     public String getValue(String Key) {
